@@ -1,6 +1,6 @@
 # TripleAD
 
-This is the code for the paper: “”.
+This is the code for the paper: “Reconciling Attribute and Structural Anomalies for Improved Graph Anomaly Detection”.
 
 ## Dataset
 

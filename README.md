@@ -16,7 +16,7 @@ This is the code for the paper: “Reconciling Attribute and Structural A
 
 ## Environment
 
-Install Python 3.9.
+The code is built in Python 3.9 and Pytorch 1.10.1. Please use the following command to install the requirements:
 
 ```python
   pip install -r requirements.txt
@@ -24,7 +24,7 @@ Install Python 3.9.
 
 ## Run
 
-Next, we demonstrate the results of the ACM dataset.
+For the ACM dataset, the command to run is as follows:
 
 ```python
   python main.py --dataset acm
@@ -36,12 +36,5 @@ By default, datasets are placed under the "dataset" folder. If you need to chang
   python main.py --dataset datasetname
 ```
 
-## RESULT
-
-The GPU we used is NVIDIA RTX3090 24GB, and the following result is the AUC-ROC using the ACM dataset.
-
-<p align="center">
-  <img src="/fig/result.png" />
-</p>
 
 

@@ -4,15 +4,15 @@ This is the code for the paper: “Reconciling Attribute and Structural A
 
 ## Dataset
 
-1) Amazon dataset is a co-purchase network (cf. Comga: Community-aware attributed graph anomaly detection, WSDM).
+1) Amazon dataset is a co-purchase network (cf. [Comga: Community-aware attributed graph anomaly detection, WSDM](https://github.com/XuexiongLuoMQ/ComGA)).
 
-2) YelpChi dataset is a transaction network (cf. Rethinking graph neural networks for anomaly detection, ICML). 
+2) YelpChi dataset is a transaction network (cf. [Rethinking graph neural networks for anomaly detection, ICML](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)). 
 
-3) CiteSeer dataset is a citation network (cf. Anomaly detection on attributed networks via contrastive self-supervised learning, TNNLS).
+3) CiteSeer dataset is a citation network (cf. [Anomaly detection on attributed networks via contrastive self-supervised learning, TNNLS](https://github.com/GRAND-Lab/CoLA)).
 
-4) ACM dataset is a citation network (cf. Inductive anomaly detection on attributed networks, IJCAI).
+4) ACM dataset is a citation network (cf. [Inductive anomaly detection on attributed networks, IJCAI](https://dl.acm.org/doi/abs/10.5555/3491440.3491619)).
 
-5) Flickr is a typical social network (cf. Deep anomaly detection on attributed networks, SDM).
+5) Flickr is a typical social network (cf. [Deep anomaly detection on attributed networks, SDM](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.67)).
 
 ## Environment
 

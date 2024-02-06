@@ -4,15 +4,15 @@ This is the code for TripleAD.
 
 ## Dataset
 
-1) Amazon dataset is a co-purchase network (cf. [Comga: Community-aware attributed graph anomaly detection, WSDM](https://github.com/XuexiongLuoMQ/ComGA)).
+1) Amazon dataset is a co-purchase network from https://github.com/TienjinHuang/GraphAnomalyDetection/tree/master/data.
 
-2) YelpChi dataset is a transaction network (cf. [Rethinking graph neural networks for anomaly detection, ICML](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)). 
+2) YelpChi dataset is a transaction network from https://github.com/zjunet/AMNet/tree/main/dataset. 
 
-3) CiteSeer dataset is a citation network (cf. [Anomaly detection on attributed networks via contrastive self-supervised learning, TNNLS](https://github.com/GRAND-Lab/CoLA)).
+3) CiteSeer dataset is a citation network from https://github.com/GRAND-Lab/CoLA/tree/main/raw_dataset.
 
-4) ACM dataset is a citation network (cf. [Inductive anomaly detection on attributed networks, IJCAI](https://dl.acm.org/doi/abs/10.5555/3491440.3491619)).
+4) ACM dataset is a citation network from https://github.com/GRAND-Lab/CoLA/tree/main/dataset.
 
-5) Flickr is a typical social network (cf. [Deep anomaly detection on attributed networks, SDM](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.67)).
+5) Flickr is a typical social network from https://github.com/GRAND-Lab/CoLA/tree/main/raw_dataset.
 
 ## Environment
 

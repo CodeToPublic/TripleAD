@@ -1,0 +1,9 @@
+torch==1.12.1
+torch-geometric==2.3.0
+numpy
+scipy
+pandas
+munkres
+scikit_learn
+pickle
+networkx
